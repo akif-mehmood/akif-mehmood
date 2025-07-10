@@ -36,6 +36,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?&style=for-the-badge&logo=trello&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
