@@ -3,7 +3,7 @@
 
 ---
 
-### 📌 About Me:
+# 💫 About Me:
 
 - 🔧 I am a skilled web developer and designer with expertise in custom website development.
 - 💻 I build websites using **HTML, CSS, Bootstrap, WordPress, and Shopify**.
