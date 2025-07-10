@@ -29,7 +29,7 @@
 
 ### 📱 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://pk.linkedin.com/in/akif-mehmood-756a43224/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/akif-mehmood-756a43224)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
 
